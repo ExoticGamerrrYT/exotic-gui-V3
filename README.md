@@ -3,6 +3,6 @@
 A portfolio about me but in an aplication format.
 
 ## Changelog
-* Version 0.1
-  
-  Initial release.
+### Released
+* Initial release
+* Buttons don't work
