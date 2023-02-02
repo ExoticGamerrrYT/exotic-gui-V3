@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exotic-gui", "exotic-gui\exotic-gui.csproj", "{226FD2B9-2669-4A6F-93FC-E23545B63C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226FD2B9-2669-4A6F-93FC-E23545B63C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226FD2B9-2669-4A6F-93FC-E23545B63C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226FD2B9-2669-4A6F-93FC-E23545B63C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226FD2B9-2669-4A6F-93FC-E23545B63C49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDDCE058-5F66-47A3-9035-D8C25FA04E4D}
+	EndGlobalSection
+EndGlobal

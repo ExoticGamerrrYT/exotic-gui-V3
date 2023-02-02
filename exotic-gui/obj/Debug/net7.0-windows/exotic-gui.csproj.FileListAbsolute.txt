@@ -1,0 +1,17 @@
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\bin\Debug\net7.0-windows\exotic-gui.exe
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\bin\Debug\net7.0-windows\exotic-gui.deps.json
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\bin\Debug\net7.0-windows\exotic-gui.runtimeconfig.json
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\bin\Debug\net7.0-windows\exotic-gui.dll
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\bin\Debug\net7.0-windows\exotic-gui.pdb
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\exotic-gui.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\exotic_gui.Form1.resources
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\exotic-gui.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\exotic-gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\exotic-gui.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\exotic-gui.AssemblyInfo.cs
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\exotic-gui.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\exotic-gui.dll
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\refint\exotic-gui.dll
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\exotic-gui.pdb
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\exotic-gui.genruntimeconfig.cache
+C:\Users\carlo\source\repos\exotic-gui\exotic-gui\obj\Debug\net7.0-windows\ref\exotic-gui.dll
